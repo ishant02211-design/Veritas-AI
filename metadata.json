@@ -1,0 +1,6 @@
+{
+  "name": "Veritas AI - AI Image & Video Forensic Detector",
+  "description": "Enterprise-grade AI detection system for synthetic images and deepfake videos with spectral heatmaps, frame-by-frame forensics, and Netlify deployment readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
